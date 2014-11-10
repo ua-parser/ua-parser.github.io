@@ -1,0 +1,7 @@
+exclude: [CONTRIBUTING.md, README.md]
+url: "http://www.uaparser.org"
+permalink: /blog/:year/:month/:day/:title.html
+markdown: redcarpet
+paginate: 5
+paginate_path: "/blog/page-:num"
+
