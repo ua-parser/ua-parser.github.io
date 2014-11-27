@@ -16,10 +16,19 @@ Structure
 * [`uap-ref-impl`][uap-ref-impl]: A reference implementation written for node.js.
 * [`ua-parser.github.io`][website-repo]: The repository for this website. It also doubles as the home of this project where all meta issues are filed.
 
-A number of language ports are also hosted within this org:
+A number of language ports are also hosted within this org, including ports written in:
 
-* list of ports goes here
-* …
+* [C++](https://github.com/ua-parser/uap-cpp)
+* [C#](https://github.com/ua-parser/uap-csharp)
+* [D](https://github.com/ua-parser/uap-d)
+* [Go](https://github.com/ua-parser/uap-go)
+* [Haskell](https://github.com/ua-parser/uap-haskell)
+* [Java](https://github.com/ua-parser/uap-java)
+* [Perl](https://github.com/ua-parser/uap-perl)
+* [Pig](https://github.com/ua-parser/uap-pig)
+* [Python](https://github.com/ua-parser/uap-python)
+* [R](https://github.com/ua-parser/uap-r)
+* [Ruby](https://github.com/ua-parser/uap-ruby)
 
 Communication channels
 -----------------------
