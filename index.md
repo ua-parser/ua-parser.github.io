@@ -25,6 +25,7 @@ A number of language ports are also hosted within this org, including ports writ
 * [Haskell](https://github.com/ua-parser/uap-haskell)
 * [Java](https://github.com/ua-parser/uap-java)
 * [Perl](https://github.com/ua-parser/uap-perl)
+* [PHP](https://github.com/ua-parser/uap-php)
 * [Pig](https://github.com/ua-parser/uap-pig)
 * [Python](https://github.com/ua-parser/uap-python)
 * [R](https://github.com/ua-parser/uap-r)
